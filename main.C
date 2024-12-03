@@ -2,5 +2,13 @@
 #include <stdio.h>
 
 int main(){
-    
+
+}
+
+int nbpremier(){
+
+}
+
+int fibonaci(){
+
 }
